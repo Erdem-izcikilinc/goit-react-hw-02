@@ -1,0 +1,10 @@
+.feedback {
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 0 auto;
+  max-width: 300px;
+  border-radius: 8px;
+  background: #f9f9f9;
+  color: black;
+}
